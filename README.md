@@ -48,3 +48,5 @@ Potential improvements for the project include:
 * Incorporating more advanced models like Gradient Boosting or XGBoost.
 * Enhancing feature engineering to include more relevant variables.
 * Deploying the model using a web framework like Flask for real-time predictions.
+
+Disclaimer: This was done as part of the project work for the Udemy Course [Python for Data Science and Machine Learning Masterclass](https://www.udemy.com/course-dashboard-redirect/?course_id=2769460)
