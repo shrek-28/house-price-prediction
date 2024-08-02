@@ -3,8 +3,8 @@ This project utilizes machine learning techniques to predict house prices based 
 
 # Project Structure 
 The project is organized into the following key files:
-*[Data Cleaning.ipynb](https://github.com/shrek-28/house-price-prediction/blob/main/Data%20Cleaning.ipynb): This notebook contains steps for cleaning and preprocessing the dataset. It addresses issues such as missing values, categorical variables, and outliers to prepare the data for analysis.
-*[Predictive Analytics.ipynb](https://github.com/shrek-28/house-price-prediction/blob/main/Predictive%20Analytics.ipynb): This notebook covers the predictive modeling aspect of the project. It includes the implementation of various regression models, model evaluation metrics, and the selection of the best-performing model.
+* [Data Cleaning.ipynb](https://github.com/shrek-28/house-price-prediction/blob/main/Data%20Cleaning.ipynb): This notebook contains steps for cleaning and preprocessing the dataset. It addresses issues such as missing values, categorical variables, and outliers to prepare the data for analysis.
+* [Predictive Analytics.ipynb](https://github.com/shrek-28/house-price-prediction/blob/main/Predictive%20Analytics.ipynb): This notebook covers the predictive modeling aspect of the project. It includes the implementation of various regression models, model evaluation metrics, and the selection of the best-performing model.
 
 # Prerequisites
 To run this project, you need to have the following software and libraries installed:
